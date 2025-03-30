@@ -16,7 +16,7 @@ You can view the live version of the portfolio here: Link to live site.
 
 **How to Run Locally**
 Clone the repository:
-git clone https://github.com/yourusername/your-portfolio.git
+git clone  https://nivetha5599.github.io/Portfolio-simple-website/
 
 Open the index.html or contact.html file in your preferred browser to view the website.
 Thank you for visiting my portfolio website!
